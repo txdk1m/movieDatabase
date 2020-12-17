@@ -1,0 +1,65 @@
+The Shawshank Redemption/Tim Robbins/Morgan Freeman/Frank Darabont/1994/142
+The Godfather/Marlon Brando/Al Pacino/Francis Ford Coppola/1972/175
+The Dark Knight/Christian Bale/Heath Ledger/Christopher Nolan/2008/152
+12 Angry Men/Martin Balsam/John Fiedler/Sidney Lumet/1957/96
+Schindler's List/Liam Neeson/Ben Kingsley/Steven Spielberg/1994/195
+Pulp Fiction/Tim Roth/Amanda Plummer/Quentin Tarantino/1994/154
+Fight Club/Edward Norton/Brat Pitt/David Fincher/1999/139
+Forrest Gump/Tom Hanks/Rebecca Williams/Robert Zemeckis/1994/144
+Inception/Leonardio DiCaprio/Joseph Gordon-Levitt/Christopher Nolan/2010/148
+The Matrix/Keanu Reeves/Laurence Fishburne/Lana Wachowski/1999/136
+Goodfellas/Robert De Niro/Ray Liotta/Martin Scorsese/1990/146
+Life is Beautiful/Roberto Benigni/Nicoletta Braschi/Roberto Benigni/1997/116
+The Silence of the Lambs/Jodie Foster/Kasi Lemmons/Jonathon Demme/1991/118
+Saving Private Ryan/Tom Hanks/Edward Burns/Steven Spielberg/1998/169
+Star Wars: A New Hope/Mark Hamill/Harrison Ford/George Lucas/1977/121
+Spirited Away/Rumi Hiiragi/Miyu Irino/Hayao Miyazaki/2003/125
+Interstellar/Matthew McConaughey/Anne Hathaway/Christopher Nolan/2014/169
+Parasite/Choi Woo Sik/Park So Dam/Bong Joon Ho/2019/132
+The Lion King/Rowan Atkinson/Matthew Broderick/Roger Allers/1994/88
+Psycho/Anthony Perkins/Vera Miles/Alfred Hitchcock/1960/99
+Gladiator/Russell Crowe/Joaquin Phoenix/Ridley Scott/2000/155
+Whiplash/Miles Teller/JK Simmons/Damien Chazelle/2014/96
+Hamilton/Lin-Manuel Miranda/Daveed Diggs/Thomas Kail/2020/160
+Casablanca/Humphrey Bogart/Ingrid Bergman/Michael Curtiz/1943/102
+Alien/Tom Skerritt/Sigourney Weaver/Ridley Scott/1979/117
+Apocalypse Now/Marlon Brando/Martin Sheen/Francis Ford Coppola/1979/147
+Joker/Joaquin Phoenix/Robert De Niro/Todd Phillips/2019/122
+The Shining/Jack Nicholson/Shelley Duvall/Stanley Kubrick/1980/146
+Avengers: Infinity War/Robert Downey Jr/Chris Hemsworth/Anthony Russo/2018/149
+Coco/Anthony Gonzalez/Benjamin Bratt/Lee Unkrich/2017/105
+Braveheart/James Robinson/Sean Lawlor/Mel Gibson/1995/178
+Toy Story/Tom Hanks/Tim Allen/John Lasseter/1995/141
+Good Will Hunting/Matt Damon/Ben Affleck/Gus Van Sant/1997/126
+Vertigo/James Stewart/Kim Novak/Alfred Hitchcock/1958/128
+1917/George MacKay/Daniel Mays/Sam Mendes/2020/119
+A Clockwork Orange/Malcom McDowell/Patrick Magee/Stanley Kubrick/1972/136
+Taxi Driver/Victor Argo/Diahnne Abbott/Martin Scorsese/1976/114
+To Kill a Mockingbird/Gregory Peck/Frank Overton/Robert Mulligan/1962/129
+Up/Edward Asner/Christopher Plummer/Pete Docter/2009/96
+Die Hard/Bruce Willis/Bonnie Bedelia/John McTiernan/1988/132
+Monty Python/Graham Chapman/John Cleese/Terry Jones/1975/151
+A Beautiful Mind/Russell Crowe/Ed Harris/Ron Howard/2002/135
+My Neighbor Totoro/Noriko Hidaka/Chika Sakamoto/Hayao Miyazaki/1990/86
+Shutter Island/Leonardo DiCaprio/Mark Ruffalo/Martin Scorsese/2010/138
+The Sixth Sense/Bruce Willis/Haley Joel Osment/M. Night Shyamalan/1999/107
+Jurassic Park/Sam Neill/Laura Dern/Steven Spielberg/1993/127
+The Truman Show/Jim Carrey/Laura Linney/Peter Weir/1998/103
+Gone With The Wind/Thomas Mitchell/Vivien Leigh/Victor Fleming/1939/238
+Blade Runner/Harrison Ford/Rutger Hauer/Ridley Scott/1982/117
+The Big Lebowski/Jeff Bridges/John Goodman/Joel Coen/1998/117
+12 Years a Slave/Chiwetel Ejiofor/Dwight Henry/Steve McQueen/2013/134
+Dead Poets Society/Robin Williams/Ethan Hawke/Peter Weir/1989/128
+Logan/Hugh Jackman/Patrick Stewart/James Mangold/2017/137
+Rocky/Sylvestor Stallone/Talia Shire/John G. Avildsen/1976/120
+The Princess Bride/Cary Elwes/Mandy Patinkin/Rob Reiner/1987/98
+The Terminator/Arnold Schwarzenegger/Michael Biehn/James Cameron/1984/107
+Tenet/Robert Pattinson/Jefferson Hall/Christopher Nolan/2020/150
+Home Alone/Macaulay Culkin/Joe Pesci/Chris Columbus/1990/103
+Elf/Will Ferrell/James Caan/Jon Favreau/2003/97
+Love Actually/Bill Nighy/Gregor Fisher/Richard Curtis/2003/135
+Knives Out/Daniel Craig/Chris Evans/Rian Johnson/2019/130
+The Wolf of Wall Street/Leonardo DiCaprio/Jonah Hill/Martin Scorsese/2013/180
+The Polar Express/Tom Hanks/Leslie Zemeckis/Robert Zemeckis/2004/100
+Shrek/Mike Meyers/Eddie Murphy/Andrew Adamson/2001/90
+Onward/Tom Holland/Chris Pratt/Dan Scanlon/2020/102
